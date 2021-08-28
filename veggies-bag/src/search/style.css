@@ -1,0 +1,33 @@
+
+.container {
+    display: flex;
+    flex-direction: row;
+    position: sticky;
+    top: 5px;
+    margin-top: 25px;
+    justify-content: center;
+    height: 30px;
+}
+ 
+h1 {
+    font-size: small;
+}
+
+#search{
+    margin-left: 20px;
+    width: 80%;
+
+}
+button {
+    background-color: blue;
+    border-radius: 5px;
+}
+#brand-name{
+    font-size: x-large;
+    visibility: hidden;
+}
+
+@media screen and ( marg ){
+    
+}
+

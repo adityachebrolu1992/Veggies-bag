@@ -1,0 +1,50 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    /* width: 50vw; */
+    width: 700px;
+    justify-content: center;
+    margin-right: 5%;
+    margin-left: 5%;
+    background-image: linear-gradient(to right,rgba(231, 228, 235, 0.945),rgb(53, 5, 163));
+    border-radius: 20px;
+}
+#button-container {
+    display: flex;
+    justify-content: center;
+    height: 20px;
+    align-items: center;
+    margin-top: 10px;
+}
+/* p,span {
+    margin-left: 10px;
+    margin-right: 10px;
+} */
+#img-tag {
+    margin-top: 20px;
+    border-radius: 20px;
+    object-fit: cover; 
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+p {
+    text-align: center;
+    font-weight: 300;
+    height: 20px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#cart-button {
+    margin:10px 40% 20px 40%;
+    
+}
+
+/* #img-container-div {
+    width: 90%;
+    padding-right: 5%;
+    padding-left: 5%;
+    color: black;
+} */
