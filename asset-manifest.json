@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Veggies-bag/static/css/main.85875d6e.chunk.css",
+    "main.js": "/Veggies-bag/static/js/main.9336342b.chunk.js",
+    "main.js.map": "/Veggies-bag/static/js/main.9336342b.chunk.js.map",
+    "runtime-main.js": "/Veggies-bag/static/js/runtime-main.722fa360.js",
+    "runtime-main.js.map": "/Veggies-bag/static/js/runtime-main.722fa360.js.map",
+    "static/js/2.2595c38a.chunk.js": "/Veggies-bag/static/js/2.2595c38a.chunk.js",
+    "static/js/2.2595c38a.chunk.js.map": "/Veggies-bag/static/js/2.2595c38a.chunk.js.map",
+    "static/js/3.6bb93d34.chunk.js": "/Veggies-bag/static/js/3.6bb93d34.chunk.js",
+    "static/js/3.6bb93d34.chunk.js.map": "/Veggies-bag/static/js/3.6bb93d34.chunk.js.map",
+    "index.html": "/Veggies-bag/index.html",
+    "static/css/main.85875d6e.chunk.css.map": "/Veggies-bag/static/css/main.85875d6e.chunk.css.map",
+    "static/js/2.2595c38a.chunk.js.LICENSE.txt": "/Veggies-bag/static/js/2.2595c38a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.722fa360.js",
+    "static/js/2.2595c38a.chunk.js",
+    "static/css/main.85875d6e.chunk.css",
+    "static/js/main.9336342b.chunk.js"
+  ]
+}
